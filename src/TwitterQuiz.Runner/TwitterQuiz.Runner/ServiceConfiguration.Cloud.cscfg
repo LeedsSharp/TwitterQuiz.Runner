@@ -3,7 +3,7 @@
   <Role name="TwitterQuiz.Runner.Raven">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=quizimodorunner;AccountKey=BEyY1LQGK0UrzBAgfzkc7iqsvkFHyuIgjrVJWX8WCQMYewg+Q/7m6JQB0KjlK9M2XixsKAScOlzC5TBEnCVpGQ==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
